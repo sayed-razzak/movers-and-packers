@@ -1,5 +1,9 @@
 # Movers and Packers
 
+Live website: https://mover-packer-ochre.vercel.app/
+
+Repository: https://github.com/sayed-razzak/movers-and-packers
+
 Static React + Vite landing page, English and Arabic, with Tailwind CSS v4, Motion, Lucide and i18next. No backend, analytics or inquiry storage.
 
 ## Run locally
@@ -21,7 +25,7 @@ The quote form validates pickup, destination and service, then opens a correctly
 
 ## Deploy on Vercel
 
-Import this project, select Vite, build command npm run build, output directory dist. No backend, environment variables or paid messaging APIs are required. No deployment was performed as part of local implementation.
+Import this project, select Vite, build command npm run build, output directory dist. No backend, environment variables or paid messaging APIs are required. The site is deployed at https://mover-packer-ochre.vercel.app/ and linked to the GitHub repository; pushes to main trigger production deployments.
 
 ## Photo credits and client handoff
 

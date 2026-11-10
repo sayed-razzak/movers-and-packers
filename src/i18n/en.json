@@ -1,0 +1,208 @@
+{
+  "brand": "{{company}}",
+  "brandSmall": "MOVING WITH CARE",
+  "home": "Home",
+  "services": "Services",
+  "why": "Why Us",
+  "quote": "Get a Free Quote",
+  "whatsapp": "WhatsApp",
+  "call": "Call Now",
+  "menu": "Open navigation",
+  "close": "Close navigation",
+  "skip": "Skip to content",
+  "eyebrow": "YOUR NEXT CHAPTER STARTS HERE",
+  "heroStart": "Moving Made Easy,",
+  "heroAccent": "From Riyadh",
+  "heroEnd": "to Anywhere in Saudi Arabia",
+  "heroText": "Professional packing, furniture moving and door-to-door relocation services for homes and offices.",
+  "heroNote": "A little less stress. A fresh new start.",
+  "heroAlt": "Two moving workers carrying household boxes inside a bright home",
+  "care": "Packed with care.",
+  "careSub": "Ready for your next chapter.",
+  "based": "Based in Riyadh",
+  "across": "Moving across Saudi Arabia",
+  "scroll": "A smoother move starts here",
+  "highlights": [
+    {
+      "title": "House & Office Moving",
+      "text": "A fresh start, without the heavy lifting."
+    },
+    {
+      "title": "Careful Packing",
+      "text": "Thoughtful care for the things you value."
+    },
+    {
+      "title": "Across Saudi Arabia",
+      "text": "From Riyadh to your next destination."
+    }
+  ],
+  "servicesEyebrow": "EVERY DETAIL, TAKEN CARE OF",
+  "servicesTitle": "Big move. Small details. We handle both.",
+  "servicesText": "From the first box to the final piece of furniture, choose the help you need.",
+  "request": "Request Quote",
+  "included": "Also available: kitchen packing and air conditioner handling during relocation. Discuss your requirements with our team.",
+  "serviceCards": [
+    {
+      "id": "house",
+      "title": "House Shifting",
+      "bullets": ["Complete home relocation", "Furniture and household items"]
+    },
+    {
+      "id": "furniture",
+      "title": "Furniture Moving",
+      "bullets": [
+        "Sofas, beds and cupboards",
+        "Careful loading and transportation"
+      ]
+    },
+    {
+      "id": "packing",
+      "title": "Packing Services",
+      "bullets": [
+        "Furniture and kitchen packing",
+        "Packing and unpacking assistance"
+      ]
+    },
+    {
+      "id": "office",
+      "title": "Office Relocation",
+      "bullets": ["Office furniture and equipment", "Organized shifting"]
+    },
+    {
+      "id": "assembly",
+      "title": "Furniture Assembly",
+      "bullets": ["Dismantling and reassembly", "Carpenter assistance"]
+    },
+    {
+      "id": "door",
+      "title": "Door-to-Door Moving",
+      "bullets": ["Pickup and transportation", "Delivery to your new location"]
+    }
+  ],
+  "stepsEyebrow": "SIMPLE FROM THE START",
+  "stepsTitle": "Your next move, in three easy steps.",
+  "steps": [
+    {
+      "title": "Tell us what you need",
+      "text": "Enter your pickup, destination and moving details."
+    },
+    {
+      "title": "Connect on WhatsApp",
+      "text": "Share your requirements directly with {{contactPerson}}."
+    },
+    {
+      "title": "Arrange your move",
+      "text": "Discuss the service and agree on a schedule together."
+    }
+  ],
+  "whyEyebrow": "GOOD HANDS. A BETTER MOVE.",
+  "whyTitle": "Your Move, Our Priority",
+  "whyText": "Moving is more than transporting things. It is taking care of the place you call home.",
+  "benefits": [
+    "Experienced moving team",
+    "Careful handling of furniture",
+    "Packing and assembly assistance",
+    "Residential and office relocation",
+    "Service across Saudi Arabia"
+  ],
+  "whyAlt": "Household belongings being carefully packed in cardboard boxes",
+  "talk": "Let's Talk About Your Move",
+  "coverageEyebrow": "FROM HERE TO YOUR NEXT CHAPTER",
+  "coverageTitle": "Based in Riyadh. Moving Across Saudi Arabia.",
+  "coverageText": "Contact us to confirm availability for your pickup and destination.",
+  "riyadh": "Riyadh",
+  "mapLabel": "Illustrative routes from Riyadh across Saudi Arabia",
+  "routeNote": "Illustrative service routes",
+  "quoteEyebrow": "LET'S GET YOU MOVING",
+  "quoteTitle": "A fresh start begins with a free quote.",
+  "quoteText": "Tell us a little about your move. Your details will open in WhatsApp for a conversation with {{contactPerson}}.",
+  "direct": "Speak directly with {{contactPerson}}",
+  "noAuto": "We will discuss your requirements and quotation personally.",
+  "pickup": "Pickup Location",
+  "destination": "Destination Location",
+  "service": "Moving Service",
+  "date": "Preferred Moving Date",
+  "property": "Property Type",
+  "phone": "Customer Phone",
+  "details": "Additional Details",
+  "optional": "optional",
+  "required": "required",
+  "pickupPlaceholder": "Area or neighborhood",
+  "destinationPlaceholder": "City or neighborhood",
+  "detailsPlaceholder": "Anything we should know about your move?",
+  "phonePlaceholder": "Your contact number",
+  "choose": "Select a service",
+  "chooseProperty": "Select property type",
+  "serviceOptions": {
+    "house": "House Shifting",
+    "furniture": "Furniture Moving",
+    "packing": "Packing",
+    "office": "Office Shifting",
+    "assembly": "Furniture Assembly",
+    "other": "Other",
+    "door": "Door-to-Door Moving"
+  },
+  "propertyOptions": {
+    "house": "House",
+    "apartment": "Apartment",
+    "office": "Office",
+    "other": "Other"
+  },
+  "submit": "Send Quote via WhatsApp",
+  "privacy": "Your details open directly in WhatsApp. This website does not store your inquiry.",
+  "manualSend": "Review your message and press Send inside WhatsApp.",
+  "validation": "Please complete this field.",
+  "serviceValidation": "Please select a moving service.",
+  "ready": "Your message is ready. Continue in WhatsApp and press Send.",
+  "continue": "Continue to WhatsApp",
+  "faqEyebrow": "A LITTLE CLARITY BEFORE YOU MOVE",
+  "faqTitle": "Questions? We've got you.",
+  "faqs": [
+    {
+      "q": "Do you provide moving services outside Riyadh?",
+      "a": "We offer moves from Riyadh to destinations across Saudi Arabia. Contact us to confirm availability."
+    },
+    {
+      "q": "Can you help with furniture packing?",
+      "a": "Yes, furniture and household packing assistance is available, including kitchen packing."
+    },
+    {
+      "q": "Do you provide furniture dismantling and reassembly?",
+      "a": "Yes, carpenter assistance is available for suitable furniture."
+    },
+    {
+      "q": "How can I request a quotation?",
+      "a": "Enter your moving details in the form and open your message in WhatsApp. Review it and press Send."
+    },
+    {
+      "q": "Can I book an office relocation?",
+      "a": "Yes, contact us to discuss your office moving requirements."
+    }
+  ],
+  "footerTitle": "A new address. The same things you love.",
+  "footerText": "Careful packing. Thoughtful moving. From Riyadh to your next home or workspace.",
+  "contact": "Get in touch",
+  "explore": "Explore",
+  "area": "{{serviceArea}}.",
+  "rights": "All rights reserved.",
+  "footerNote": "Made for your next move.",
+  "message": {
+    "hello": "Hello {{contactPerson}},",
+    "intro": "I would like to request a moving quotation.",
+    "service": "Service",
+    "pickup": "Pickup",
+    "destination": "Destination",
+    "date": "Moving Date",
+    "property": "Property Type",
+    "phone": "Customer Phone",
+    "details": "Additional Details",
+    "unspecified": "Not specified",
+    "notProvided": "Not provided",
+    "none": "None"
+  },
+  "furnitureAlt": "Two moving workers carefully carrying a sofa",
+  "emailAction": "Email us",
+  "facebook": "Facebook",
+  "instagram": "Instagram",
+  "tiktok": "TikTok"
+}
